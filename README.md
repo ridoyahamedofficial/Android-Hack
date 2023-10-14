@@ -12,7 +12,7 @@ Packages : metasploit-framework, apktool, default-jdk, aapt, apksigner, apache2
 
 sudo apt update
 sudo apt install git
-git clone https://github.com/mehedishakeel/InjectAPK.git
+git clone https://github.com/ridoyahamedofficial/Android-Hack
 cd InjectAPK
 sudo chmod +x Injectapk.sh
 ./Injectapk.sh
