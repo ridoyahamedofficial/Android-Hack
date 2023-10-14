@@ -19,10 +19,10 @@ sudo apt install git
 git clone https://github.com/ridoyahamedofficial/Android-Hack
 
 
-cd InjectAPK
+cd Android-Hack
 
 
-sudo chmod +x Injectapk.sh
+sudo chmod +x InjectApk.sh
 
 
-./Injectapk.sh
+./InjectApk.sh
